@@ -1,4 +1,4 @@
-# Materials from the weekly seminar of the MI^2 group  <img src="prezentacja.png" align="right" width="300"/>
+# Materials from the weekly research seminar at the Centre for Credible AI (CCAI)  <img src="prezentacja.png" align="right" width="300"/>
 
 We meet every Monday, at 10 AM in **room 5.04 at Rektorska 4**, Warsaw University of Technology - or online.
 
