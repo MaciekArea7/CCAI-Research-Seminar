@@ -21,7 +21,7 @@ Join us at https://meet.drwhy.ai.
 * 18.05 - Semantic Vector Spaces as Scientific Instruments: Measuring Meaning with the Supervised Semantic Differential - invited lecture by [Hubert Plisiecki](https://scholar.google.com/citations?user=Xb0W4xgAAAAJ)
 * 25.05 - Shifting the Gradient: Understanding How Defensive Training Methods Protect Language Model Integrity - Jan Piotrowski
 * 01.06 - Inez Okulska
-* 08.06 - Agata Kaczmarek
+* 08.06 - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256) - Teodor Lamort 
 * 15.06 - Retro meeting
 
 ### Fall semester
