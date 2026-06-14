@@ -1,4 +1,4 @@
-# Weekly research seminar at the Centre for Credible AI (CCAI)  <img src="prezentacja.png" align="right" width="300"/>
+# Weekly research seminar at the Centre for Credible AI (CCAI)  
 
 We meet every Monday, at 10 AM in **room 5.04 at Rektorska 4**, Warsaw University of Technology - or online.
 
